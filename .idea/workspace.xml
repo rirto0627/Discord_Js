@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d600e196-cf7e-4fe0-b410-a8a77db1d13a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DiscordBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+    <list default="true" id="d600e196-cf7e-4fe0-b410-a8a77db1d13a" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/mime" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/@discordjs/collection/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/@discordjs/collection/README.md" afterDir="false" />
@@ -923,8 +916,7 @@
       <change afterPath="$PROJECT_DIR$/node_modules/ws/lib/websocket-server.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/ws/lib/websocket.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/ws/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -943,7 +935,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jg9j7lr79xCOBhbd02PhUScWSk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -1000,12 +994,24 @@
       <updated>1604214999721</updated>
       <workItem from="1604215000874" duration="460000" />
       <workItem from="1604215532809" duration="5271000" />
-      <workItem from="1604222844001" duration="2192000" />
+      <workItem from="1604222844001" duration="2495000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1604232282083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604232282083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="190" key="#Deployment" timestamp="1604231907926">
@@ -1032,9 +1038,13 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1659" height="387" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604224701690" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1604232019706">
+    <state x="585" y="234" key="RollbackChangesDialog" timestamp="1604232248172">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1604232019706" />
+    <state x="585" y="234" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1604232248172" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1604232325200">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1604232325200" />
   </component>
 </project>
